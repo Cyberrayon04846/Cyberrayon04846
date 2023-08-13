@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberrayon" target="blank"><img src="https://img.shields.io/twitter/follow/cyberrayon?logo=twitter&style=for-the-badge" alt="cyberrayon" /></a> </p>
 
-- 🔭 I’m currently working on [node js and react](https://github.com/Cyberrayon04846/mychat.git)
+- 🔭 I’m currently working on [Chat application](https://github.com/Cyberrayon04846/mychat.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
