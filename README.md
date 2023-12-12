@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preet Chahal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberrayon04846&label=Profile%20views&color=0e75b6&style=flat" alt="cyberrayon04846" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetchahal769&label=Profile%20views&color=0e75b6&style=flat" alt="preetchahal769" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cyberrayon" target="blank"><img src="https://img.shields.io/twitter/follow/cyberrayon?logo=twitter&style=for-the-badge" alt="cyberrayon" /></a> </p>
 
-- 🔭 I’m currently working on [Chat application](https://github.com/Cyberrayon04846/mychat.git)
+- 🔭 I’m currently working on [Chat application](https://github.com/preetchahal769/mychat.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
