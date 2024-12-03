@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberrayon" target="blank"><img src="https://img.shields.io/twitter/follow/cyberrayon?logo=twitter&style=for-the-badge" alt="cyberrayon" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Project](https://github.com/preetchahal769/E-COMMERCE-STORE)
+- 🔭 I’m currently working on [STOCK-MARKET-EMULATOR](https://github.com/preetchahal769/stock-market-emulator)
 
 - 🌱 I’m currently learning **React js , TypeScript**
 
